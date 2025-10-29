@@ -18,10 +18,10 @@
 ---
 
 ### 🧠 About Me
-- 🚀 Currently learning **NestJS**, advanced architecture patterns, and production infra.  
-- 🤝 Open to collaborating on **frontend-heavy SaaS or startup projects** using **Next.js + TypeScript**.  
-- 💬 Ask me about **React, Next.js, TypeScript, Tailwind, Firebase, Clerk, and building MVPs fast**.  
-- ⚡ Fun fact: *I design systems with simplicity first — then scale.*
+- 🚀 Currently learning **NestJS**, **advanced architecture patterns**, and **production infrastructure**.  
+- 🤝 Open to collaborating on **frontend-heavy SaaS**, **startup projects**, and **MVPs** using **Next.js + TypeScript**.  
+- 💬 Ask me about **React**, **Next.js**, **TypeScript**, **Tailwind**, **Firebase**, and **Clerk**.  
+- ⚡ Fun fact: I design for **simplicity first**, then scale.  
 
 ---
 
